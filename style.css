@@ -1,6 +1,7 @@
 body {
 	background-color: RGB(14, 22, 32);
 	color: RGB(206, 171, 92);
+	font-size: 30px;
 }
 
 h1, h2, h3{
@@ -24,5 +25,9 @@ h1, h2, h3{
 
 .property-title{
 	font-weight: bold;
+}
+
+img {
+	border: solid 1.5px;
 }
 

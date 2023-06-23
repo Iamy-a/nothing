@@ -1,19 +1,24 @@
 body {
-	background-image: url("https://pbs.twimg.com/media/FGHImYvXsAIjwk3.png");
-	background-repeat: repeat;
-	background-color: green;
+	background-color: RGB(14, 22, 32);
+	color: RGB(206, 171, 92);
 }
 
-.classes-div{
-	background-color: rgb(255,255,255);
-	padding: 10px;
-}
-
-.classes-title{
+h1, h2, h3{
 	text-decoration: underline;
+	
+}
+
+.classes{
+	background-color: rgba(255,255,255,0.5);
+	padding: 10px;
+	border-radius: 10px;
 }
 
 .classes, .classes th {
 	border: solid 1px;
+}
+
+.property-title{
+	font-weight: bold;
 }
 

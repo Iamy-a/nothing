@@ -18,6 +18,10 @@ h1, h2, h3{
 	border: solid 1px;
 }
 
+.pastouts{
+	font-weight: bold;
+}
+
 .property-title{
 	font-weight: bold;
 }

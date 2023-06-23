@@ -4,6 +4,16 @@ body {
 	background-color: green;
 }
 
+.classes-div{
+	background-color: rgb(255,255,255);
+	padding: 10px;
+}
+
+.classes-title{
+	text-decoration: underline;
+}
+
 .classes, .classes th {
 	border: solid 1px;
 }
+

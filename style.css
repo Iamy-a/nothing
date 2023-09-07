@@ -9,13 +9,13 @@ h1, h2, h3{
 	
 }
 
-.classes{
+.table{
 	background-color: rgba(255,255,255,0.5);
 	padding: 10px;
 	border-radius: 10px;
 }
 
-.classes, .classes th {
+.table, th {
 	border: solid 1px;
 }
 
